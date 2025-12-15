@@ -1,4 +1,5 @@
 The workflow consists of 5 modules: 
+
 Module 1: Takes the hg19 bam sorts it, indexes it, and converts it to hg38 bam using liftover tool and samtools
 
 Module 2: Takes the hg38 bam and converts it hg 38 bed using bedtools
