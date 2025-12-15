@@ -1,0 +1,13 @@
+name: ichor
+channels: [conda-forge, bioconda, defaults]
+dependencies:
+  - python=3.10
+  - r-base=4.3
+  - r-ichorcna        
+  - bioconductor-hmmcopy
+  - hmmcopy           
+  - samtools
+  - bedtools
+  - crossmap
+  - r-optparse
+
